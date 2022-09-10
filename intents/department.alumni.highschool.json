@@ -2,9 +2,13 @@
     "questions": [
         "Who is the secretary of Alumni Office for Highschool?",
         "Who is the secretary of Alumni Office for College?" 
+        "Secretary for Alumni Office for College"
+        "Secretary Alumni Office College"
+        "Secretary Alumni Office Highschool"
 
     ], 
     "answers": [
-        "Shirley Ares."
+        "Ms. Shirley Ares."
+        "She is Ms. Shirley Ares."
     ]
 }
